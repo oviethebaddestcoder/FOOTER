@@ -1,0 +1,55 @@
+      /* Google popins */
+
+      
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Quicksand:wght@300..700&display=swap');
+
+      
+      
+      
+*{
+    font-family: Quicksand;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: red;
+}
+footer{
+    width: 100%;
+    height: auto;
+    background-color: navy;
+    color: white;
+    display: flex;
+    padding: 50px;
+
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.First{
+    flex: 30%;
+
+}
+
+.Second, .Third, .Fourth, .Fifth{
+    flex: 17.5%;
+}
+h3{
+    margin-bottom: 10px;
+}
+a:hover{
+    text-decoration: underline;
+}
+a{
+    color: white;
+}
+h3{
+    margin-bottom: 10px;
+}
+p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
